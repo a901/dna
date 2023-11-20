@@ -1,0 +1,19 @@
+we chose the most parsimonious model K = 13 to summarize the results of Taiwanese populations,
+ including Hakka (TW-HA), Minna (TW-HB), Ami (AX-AM), and Atayal (AX-AT),
+ together with the other Sino-Tibetan speaking populations and several neighboring populations. 
+
+
+The Southeastern ancestry (blue) constitutes the highest percentage for most Taiwanese Han people 
+(average 59%, range 24–64%), 
+followed by the Northern ancestry (yellow) with 24% on average (range 8–41%).
+ The ISEA(Island Southeast Asia) ancestry (pink) constitutes 15% of the genome on average 
+but varies considerably from 0.1% to 62% (fig. 2C). 
+
+Since we excluded the Pan-Asia data set, the Ryukyu Japanese population (JP-RK), 
+which contains the highest proportion of green AC (86%), was not included in this analysis and, 
+consequently, the ancestry proportion previously attributed to the green AC can no longer be separated
+ from the blue and yellow ACs.
+
+
+原始文章:
+https://academic.oup.com/mbe/article/38/10/4149/5955855

@@ -1,0 +1,8 @@
+CHN_Amur_River represents Northern Asian origin.
+CHN_Xitoucun_N represents Southern East Asian origin who are neolithic farmer of Southern China. (CHN_Xitoucun_N is a prehistoric site located in Fujian, China, dating back 4,000 years.)
+CHN_Yellow_River_LN represents Northern East Asian origin who are neolithic farmer of Nouthern China.
+Yamnaya_RUS_Samara represents Proto-Indo-European.
+LAO_Hoabinhian represents Hunter-gatherer of Southeast Asia who inhabited the region 4,000 to 7,000 years ago.
+Tamil_Sri_Lanka represents Indian people.
+JPN_Jomon represents Hunter-gatherer population of Japan who inhabited the region thousands of years ago.
+Wales_N represents Neolithic European farmer.
