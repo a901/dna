@@ -35,7 +35,7 @@ https://link.springer.com/article/10.1007/s00439-015-1620-z
 
 https://www.science.org/doi/10.1126/science.aat3188
 
-## Northern Aisa and East Asia
+## North Aisa and East Asia
 
 #### Genomic Insights into the Formation of Human Populations in East Asia
 
