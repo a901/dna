@@ -44,5 +44,58 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7993749/
 ( https://www.nature.com/articles/s41586-021-03336-2 )
 
 
+## other useful resource
+
+#### ISOGG 
+ISOGG(International Society of Genetic Genealogy)
+
+#### reddit r/23andme
+https://www.reddit.com/r/23andme/
+
+#### 23魔方 (Chinese dna company)
+https://www.23mofang.com/ancestry/ytree/D-Z27269
+
+#### theytree
+https://www.theytree.com/tree/
+
+#### familytree (not recommend to East Asian)
+https://www.familytreedna.com/public/y-dna-haplotree/O
+
+#### for european
+https://www.eupedia.com/europe/maps_Y-DNA_haplogroups.shtml#R1b-S21
+
+#### haplotree.info
+https://haplotree.info/maps/ancient_dna/slideshow_samples.php?searchcolumn=Y_Haplotree_Variant&searchfor=O-M119&ybp=500000,0
+
+#### 非正式論壇
+https://anthrogenica.com/forumdisplay.php?218-Eastern
+
+#### 某韓文網站
+https://blog.naver.com/PostView.nhn?blogId=qudro&logNo=221055380566&categoryNo=27&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
+
+#### wiki
+https://en.wikipedia.org/wiki/Conversion_table_for_Y_chromosome_haplogroups
+
+### vahaduo
+
+#### G25輔助與教程
+https://www.exploreyourdna.com/tutos.aspx
+
+#### vahaduo(基因距離)
+https://vahaduo.github.io/vahaduo/
+
+#### 下載樣本點:
+https://vahaduo.github.io/g25download/
+
+#### GEDmatch:
+https://en.wikipedia.org/wiki/GEDmatch
+
+#### 解釋 G25
+https://genoplot.com/discussions/topic/195/what-is-global-25-g25
+
+
+
+
+
 
 
