@@ -7,7 +7,7 @@ my email :
 
 a24831110111@gmail.com
 
-![image](https://github.com/a901/dna/blob/main/%E4%B8%AD%E5%9C%8B-%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%9F%BA%E5%9B%A0/%E6%9D%B1%E5%8D%97%E4%BA%9E%E4%BA%BA%E7%BE%A4%E4%BE%86%E6%BA%90_%E5%92%8C%E5%B9%B3%E6%96%87%E5%8C%96%E5%B8%B8%E6%9F%93/%E6%9D%B1%E4%BA%9E%E6%9D%B1%E5%8D%97%E4%BA%9E2.png)
+
 
 ## Chinese
 
