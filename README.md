@@ -49,6 +49,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7993749/
 
 ( https://www.nature.com/articles/s41586-021-03336-2 )
 
+#### The deep population history of northern East Asia from the Late Pleistocene to the Holocene
+
+https://www.sciencedirect.com/science/article/pii/S0092867421005754
 
 ## other useful resource
 
