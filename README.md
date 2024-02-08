@@ -46,8 +46,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7993749/
 
 ## other useful resource
 
-#### ISOGG 
-ISOGG(International Society of Genetic Genealogy)
+#### ISOGG (International Society of Genetic Genealogy)
+https://isogg.org/tree/
 
 #### reddit r/23andme
 https://www.reddit.com/r/23andme/
