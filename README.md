@@ -1,11 +1,8 @@
 
 # Genetic history of East Asia
 
-my recommended paper
+I recommend these papers
 
-my email : 
-
-a24831110111@gmail.com
 
 
 
