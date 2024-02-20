@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+https://customercare.23andme.com/hc/en-us/articles/212170958-DNA-Relatives-Detecting-Relatives-and-Predicting-Relationships
+
+Probability of Detecting Cousin Relationships
+Cousin relationship	Probability of detecting
+1st Cousin or closer	~100%
+2nd Cousin	>99%
+3rd Cousin	~90%
+4th Cousin	~45%
+5th Cousin	~15%
+6th Cousin and beyond	<5%
