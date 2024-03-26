@@ -1,12 +1,10 @@
 
-# Genetic history of East Asia
-
-I recommend these papers
+## Genetic history of East Asia
 
 
 
 
-## Chinese
+### Chinese
 
 #### Ancient genomes from northern China suggest links between subsistence changes and human migration
 
@@ -24,7 +22,7 @@ https://www.frontiersin.org/articles/10.3389/fevo.2022.853391/full
 
 https://academic.oup.com/mbe/article/36/8/1643/5423190
 
-## Southeast Asia
+### Southeast Asia
 
 #### The prehistoric peopling of Southeast_Asia  
 
@@ -40,7 +38,7 @@ https://link.springer.com/article/10.1007/s00439-015-1620-z
 
 https://www.science.org/doi/10.1126/science.aat3188
 
-## North Aisa and East Asia
+### North Aisa and East Asia
 
 #### Genomic Insights into the Formation of Human Populations in East Asia
 
@@ -54,7 +52,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7993749/
 
 https://www.sciencedirect.com/science/article/pii/S0092867421005754
 
-## other useful resource
+### other useful resource
 
 #### ISOGG (International Society of Genetic Genealogy)
 https://isogg.org/tree/
